@@ -1,0 +1,35 @@
+{
+  "data": "2026-10-31",
+  "autor": "Vorne Ermel",
+  "narrador": "Israel M R",
+  "capitulos": 5,
+  "palavras_narrativa": 2783,
+  "leitura_silenciosa_minutos_180_a_230_ppm": [
+    12.1,
+    15.5
+  ],
+  "leitura_em_voz_alta_110_a_150_ppm": [
+    18.6,
+    25.3
+  ],
+  "paginas_pdf": 14,
+  "pdf_texto_integral": true,
+  "pdf_paginas_renderizadas": 14,
+  "pdf_inspecao_visual": "14 de 14 páginas renderizadas e inspecionadas; sem cortes, sobreposições ou glifos ilegíveis observados",
+  "epub_zip_xml_manifesto_spine_links_e_paragrafos": "aprovados em verificação local por script",
+  "epubcheck": "não executado; comando indisponível",
+  "kindle_previewer": "não executado",
+  "capa_jpeg_rgb": "1600 x 2560 pixels",
+  "backup_publico": "pendente: CLI sem autenticação válida",
+  "fontes_pdf": {
+    "/Helvetica": false,
+    "/AAAAAA+ArialMT": true,
+    "/AAAAAA+Georgia-Bold": true,
+    "/AAAAAA+Georgia": true
+  },
+  "sha256": {
+    "Bahamas-Vorne-Ermel.pdf": "2b83f56fee0eca6b6206c64737371df589c3c3e28c8be9485f1f5dbc08f90042",
+    "Bahamas-Vorne-Ermel.epub": "8db2e30452b3234e120e3767c7574ad915aaa2800ddd875a219fa7b536940fff",
+    "capa.jpg": "7e579b2a1bb1b12cb7b99892bb247110dc06fecd92e92d3c3382010be5165381"
+  }
+}
