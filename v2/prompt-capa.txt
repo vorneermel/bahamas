@@ -1,0 +1,5 @@
+Ferramenta: image_gen integrada. Geração nova, fundo opaco. Sem imagem de referência.
+Uso: arte de capa conceitual. O usuário aprovou a arte na conversa. Título e autoria foram aplicados posteriormente em camada tipográfica editável, preservando a ilustração original.
+
+PROMPT ENVIADO
+Create a beautiful literary travel memoir cover BACKGROUND ART ONLY, portrait ratio 2:3, no text, no lettering. A tranquil Bahamas shoreline, turquoise sea clear water, warm ivory beach, small distant palm silhouettes, late afternoon luminous sky in pale sand tones. Contemporary painterly editorial illustration, sophisticated restrained colors, paper grain, inviting intimate reflective mood. Lower half ocean and shore, upper half quiet pale sky with ample negative space for title to be typeset separately. No people, no boats, no logos, no book mockup. Full bleed flat artwork. This is background art for a short Portuguese first person travel story about fifteen days in the Bahamas and happiness of returning home.
