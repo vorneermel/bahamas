@@ -1,12 +1,7 @@
-# Estado do backup público
+# Backup público — conferência de 08/11/2026
 
-Autorização de backup público recebida e mantida. Estado em 31/10/2026: PENDENTE.
+Repositório: https://github.com/vorneermel/bahamas
 
-A pesquisa pelo conector GitHub por repositórios com a consulta `user:vorneermel bahamas` retornou lista vazia. A interface do conector não expõe criação de repositórios. A CLI `gh auth status` informou token inválido para a conta `vorneermel`. Nenhum repositório remoto foi criado, nenhuma visibilidade foi alterada e nenhum push foi confirmado.
+Histórico editorial completo das versões 1 e 2 enviado e confirmado no remoto: f254506dcca1a3c9263012c998f3844b2ba508cc. Visibilidade PUBLIC verificada com gh repo view.
 
-Para retomar: restabelecer a autenticação local do GitHub pela interface segura da CLI (`gh auth login -h github.com`), verificar novamente se já existe repositório da obra e reutilizá-lo, ou criar um repositório público próprio. Enviar o histórico local sem força. Conferir SHA remoto e visibilidade pública antes de declarar sincronização concluída. Não é necessário renovar a autorização de visibilidade.
-
-Os originais, a versão editada, as reflexões autorizadas, a arte, os arquivos de leitura e os registros editoriais estão preservados nesta pasta. O estado do commit local é informado na entrega da conversa.
-
-
-Versão 2: autenticação local novamente verificada em 31/10/2026 e ainda inválida. O histórico local inclui a revisão ampliada; o envio público não foi realizado.
+O bloqueio de autenticação registrado em 31/10/2026 foi resolvido. Este registro e os dois pacotes ZIP originais são incluídos em um commit complementar, cujo SHA deve ser conferido no remoto após o envio. Originais, manuscritos, capítulos, PDF, EPUB, capas e registros preservados. Não houve publicação comercial.
